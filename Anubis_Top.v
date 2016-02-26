@@ -4,8 +4,7 @@
  Description:
      The ANUBIS block cipher (pipelined archiecture)
      It performs the entire Anubis encrypt/decrypt function.
-     Refer to http://en.wikipedia.org/wiki/Anubis_(cipher)
-     for a more information.
+     Refer to http://en.wikipedia.org/wiki/Anubis_(cipher) for more information.
 
  Dependencies:
            Anubis_Round_Function.v

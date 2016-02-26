@@ -1,4 +1,4 @@
-# AnubisCryptoEngine
+# Anubis Crypto Engine
 Anubis Crypto Engine in Verilog
 
 ANUBIS is a block cipher designed by Vincent Rijmen and Paulo S. L. M. Barreto
@@ -12,5 +12,5 @@ public use. The interested reader is referred to
 http://en.wikipedia.org/wiki/Anubis_(cipher) for more information. A URL to the
 complete definition of ANUBIS is also found in that page.
 
-This implements a hardware crypto engine for the ANUBIS block cipher written 
+This code implements a hardware crypto engine for the ANUBIS block cipher written 
 in synthesizable Verilog.

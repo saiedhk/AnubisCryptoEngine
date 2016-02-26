@@ -5,19 +5,16 @@
      Round Function of the ANUBIS block cipher
      It performs one round of Anubis.
 
- Language: Verilog 2001
- Revision: 1.0
-
- Designer: Saied H. Khayat
- Contact:  saied.h.khayat@outlook.com
-
  Dependencies:
            Anubis_Gamma_Function.v
            Anubis_Tau_Function.v
            Anubis_Theta_Function.v
            Anubis_Sigma_Function.v
 
- Remark: none
+ Language: Verilog 2001
+ Author: Saied H. Khayat
+ Date:   March 2011
+ URL: https://github.com/saiedhk
 -------------------------------------------------------------------*/
 
 `timescale  1ns/1ps

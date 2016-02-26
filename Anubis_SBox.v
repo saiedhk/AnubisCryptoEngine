@@ -4,17 +4,14 @@
  Description:
      S Box of the ANUBIS block cipher
 
- Language: Verilog 2001
- Revision: 1.0
-
- Designer: Saied H. Khayat
- Contact:  saied.h.khayat@outlook.com
-
  Dependencies:
             Anubis_PBox.v
             Anubis_QBox.v
 
- Remark: none
+ Language: Verilog 2001
+ Author: Saied H. Khayat
+ Date:   March 2011
+ URL: https://github.com/saiedhk
 -------------------------------------------------------------------*/
 
 `timescale  1ns/1ps

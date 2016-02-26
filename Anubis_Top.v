@@ -7,12 +7,6 @@
      Refer to http://en.wikipedia.org/wiki/Anubis_(cipher)
      for a more information.
 
- Language: Verilog 2001
- Revision: 1.0
-
- Designer: Saied H. Khayat
- Contact:  saied.h.khayat@outlook.com
-
  Dependencies:
            Anubis_Round_Function.v
            Anubis_Gamma_Function.v
@@ -20,7 +14,10 @@
            Anubis_Theta_Function.v
            Anubis_Sigma_Function.v
 
- Remark: none
+ Language: Verilog 2001
+ Author: Saied H. Khayat
+ Date:   March 2011
+ URL: https://github.com/saiedhk
 -------------------------------------------------------------------*/
 
 `timescale  1ns/1ps

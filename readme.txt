@@ -1,3 +1,18 @@
+/**********************************************************************
+
+   Project: Anubis Crypto Engine in Verilog
+
+   Language: Verilog 2001
+   Author: Saied H. Khayat
+   Date:   March 2011
+   URL: https://github.com/saiedhk
+   
+   Copyright Notice: Free use of this library is permitted under the
+   guidelines and in accordance with the MIT License (MIT).
+   http://opensource.org/licenses/MIT
+
+**********************************************************************/
+
 Project Description
 
 ANUBIS is a block cipher designed by Vincent Rijmen and Paulo S. L. M. Barreto
@@ -14,4 +29,4 @@ complete definition of ANUBIS is also found in that page.
 This CodePlex project presents a hardware crypto engine for the ANUBIS block
 cipher written in Verilog.
 
-This is work in progress. Testbench development and testing is underway.
+Developing testbench is work to be done.
